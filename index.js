@@ -21,7 +21,7 @@ a1.onclick = function () {
   box4.style.opacity = 0;
   box5.style.opacity = 0;
   box6.style.opacity = 0;
-  info.innerHTML = "Image 1";
+  info.innerHTML = "1st Image of Tiger";
   i = 0;
 };
 
@@ -32,7 +32,7 @@ a2.onclick = function () {
   box4.style.opacity = 0;
   box5.style.opacity = 0;
   box6.style.opacity = 0;
-  info.innerHTML = "Image 2";
+  info.innerHTML = "2nd Image of Tiger";
   i = 1;
 };
 
@@ -43,7 +43,7 @@ a3.onclick = function () {
   box4.style.opacity = 0;
   box5.style.opacity = 0;
   box6.style.opacity = 0;
-  info.innerHTML = "Image 3";
+  info.innerHTML = "3rd Image of Tiger";
   i = 2;
 };
 
@@ -54,7 +54,7 @@ a4.onclick = function () {
   box4.style.opacity = 1;
   box5.style.opacity = 0;
   box6.style.opacity = 0;
-  info.innerHTML = "Image 4";
+  info.innerHTML = "4th Image of Tiger";
   i = 3;
 };
 
@@ -65,7 +65,7 @@ a5.onclick = function () {
   box4.style.opacity = 0;
   box5.style.opacity = 1;
   box6.style.opacity = 0;
-  info.innerHTML = "Image 5";
+  info.innerHTML = "5th Image of Tiger";
   i = 4;
 };
 
@@ -76,7 +76,7 @@ a6.onclick = function () {
   box4.style.opacity = 0;
   box5.style.opacity = 0;
   box6.style.opacity = 1;
-  info.innerHTML = "Image 6";
+  info.innerHTML = "6th Image of Tiger";
   i = 5;
 };
 
@@ -100,7 +100,7 @@ function right() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 1";
+    info.innerHTML = "1st Image of Tiger";
     i++;
   } else if (i == 1) {
     box1.style.opacity = 0;
@@ -109,7 +109,7 @@ function right() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 2";
+    info.innerHTML = "2nd Image of Tiger";
     i++;
   } else if (i == 2) {
     box1.style.opacity = 0;
@@ -118,7 +118,7 @@ function right() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 3";
+    info.innerHTML = "3rd Image of Tiger";
     i++;
   } else if (i == 3) {
     box1.style.opacity = 0;
@@ -127,7 +127,7 @@ function right() {
     box4.style.opacity = 1;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 4";
+    info.innerHTML = "4th Image of Tiger";
     i++;
   } else if (i == 4) {
     box1.style.opacity = 0;
@@ -136,7 +136,7 @@ function right() {
     box4.style.opacity = 0;
     box5.style.opacity = 1;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 5";
+    info.innerHTML = "5th Image of Tiger";
     i ++;
   } else if (i == 5) {
     box1.style.opacity = 0;
@@ -145,7 +145,7 @@ function right() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 1;
-    info.innerHTML = "Image 6";
+    info.innerHTML = "6th Image of Tiger";
     i = 0;
   }
 }
@@ -158,7 +158,7 @@ function left() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 1;
-    info.innerHTML = "Image 1";
+    info.innerHTML = "1st Image of Tiger";
     i++;
   } else if (i == 1) {
     box1.style.opacity = 0;
@@ -167,7 +167,7 @@ function left() {
     box4.style.opacity = 0;
     box5.style.opacity = 1;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 2";
+    info.innerHTML = "2nd Image of Tiger";
     i++;
   } else if (i == 2) {
     box1.style.opacity = 0;
@@ -176,7 +176,7 @@ function left() {
     box4.style.opacity = 1;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 3";
+    info.innerHTML = "3rd Image of Tiger";
     i++;
   } else if (i == 3) {
     box1.style.opacity = 0;
@@ -185,7 +185,7 @@ function left() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 4";
+    info.innerHTML = "4th Image of Tiger";
     i++;
   } else if (i == 4) {
     box1.style.opacity = 0;
@@ -194,7 +194,7 @@ function left() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 5";
+    info.innerHTML = "5th Image of Tiger";
     i ++;
   } else if (i == 5) {
     box1.style.opacity = 1;
@@ -203,7 +203,7 @@ function left() {
     box4.style.opacity = 0;
     box5.style.opacity = 0;
     box6.style.opacity = 0;
-    info.innerHTML = "Image 6";
+    info.innerHTML = "6th Image of Tiger";
     i = 0;
   }
 }
